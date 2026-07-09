@@ -70,9 +70,10 @@ I build end-to-end data and AI systems — from SQL-driven BI dashboards to prod
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=prakhar-189&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=prakhar-189&theme=shadow_blue&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-189&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Rendered daily by .github/workflows/metrics.yml (lowlighter/metrics) and served as a
+     static committed SVG, so it always loads (no dependency on rate-limited public servers). -->
+![Prakhar's GitHub metrics](./github-metrics.svg)
 
 ---
 
