@@ -12,6 +12,14 @@ I build end-to-end data and AI systems — from SQL-driven BI dashboards to prod
 
 ---
 
+## ✨ Highlights
+
+- 🚀 **17+ open-source projects** spanning BI dashboards, deployed ML/DL pipelines, NLP, RAG, LLMOps, and agentic AI.
+- 🛠️ **Production-grade MLOps** — live deployments on AWS and Hugging Face, CI/CD quality gates, Docker/Kubernetes, MLflow tracking, and Prometheus/Grafana observability.
+- 📏 **Evaluation-first engineering** — models reported with honest, measured metrics (test accuracy, mAP, R²) and documented failure modes, not just happy-path demos.
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it does | Key result |
@@ -21,10 +29,11 @@ I build end-to-end data and AI systems — from SQL-driven BI dashboards to prod
 | [Autonomous-Driving-Deep-Learning](https://github.com/prakhar-189/Autonomous-Driving-Deep-Learning) | Faster R-CNN (MobileNetV3) vehicle detector + Tesla Autopilot incident analysis | mAP@0.5 0.128, precision 0.685 on 1,134 held-out images — real numbers, real limitations documented |
 | [Math-Solver-DeepLearning](https://github.com/prakhar-189/Math-Solver-DeepLearning) | Handwritten arithmetic solver: CRNN + CTC recognizer trained on synthetic data, evaluated on real handwriting, solved with SymPy (Streamlit app) | 99.5% in-domain accuracy; honestly measured synthetic→real gap and root-caused the dominant failure mode (the handwritten digit `1`) |
 | [Agentic-Data-Analyst-Assistant](https://github.com/prakhar-189/Agentic-Data-Analyst-Assistant) | Self-correcting EDA agent built on LangGraph + a local Qwen2.5-Coder model | Multi-step agentic loop with automatic error correction, fully local (Ollama) |
+| [RAG-LocalLLM](https://github.com/prakhar-189/RAG-LocalLLM) | 100% local, zero-API RAG chatbot over your PDFs (LangChain + FAISS + Phi-3 via Ollama) | Semantic chunking, strict grounding + citations, 3-signal eval harness (ROUGE-L / BERTScore / LLM-as-Judge), content-hash vector cache, pytest + CI + Docker |
 | [Online-Retail-SQL-PowerBI](https://github.com/prakhar-189/Online-Retail-SQL-PowerBI) | Retail analytics: RFM segmentation + cohort retention on transaction data | MySQL (CTEs/window functions) → Power BI dashboard |
-| [Student-ML-Project](https://github.com/prakhar-189/Student-ML-Project) | Flask app predicting student exam scores, deployed to the cloud | Live on AWS Elastic Beanstalk with CodePipeline CI/CD |
+| [Student-ML-Project](https://github.com/prakhar-189/Student-ML-Project) | Flask app (web form + JSON API) predicting student exam scores, deployed to the cloud | Live on AWS Elastic Beanstalk; MLflow tracking, cross-validated model selection (test R² 0.88), pytest + GitHub Actions CI, Docker |
 
-*(Full list of 16+ repos on my [profile](https://github.com/prakhar-189?tab=repositories) — spanning NLP, clustering, computer vision, and BI dashboards.)*
+*(Full list of 17+ repos on my [profile](https://github.com/prakhar-189?tab=repositories) — spanning NLP, clustering, computer vision, and BI dashboards.)*
 
 ---
 
@@ -50,6 +59,13 @@ I build end-to-end data and AI systems — from SQL-driven BI dashboards to prod
 
 **Web & Apps**
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+## 🎓 Certifications
+
+- **Professional Certificate — Data Analytics & Generative AI** · E&ICT Academy, IIT Guwahati × Simplilearn *(Jun 2025 – Apr 2026)*
+- **Microsoft AI Engineer Program** · Microsoft × Simplilearn *(Dec 2025)*
 
 ---
 
